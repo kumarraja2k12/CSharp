@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="1sheet.csv" />
+    <None Remove="2sheet.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="1sheet.csv" />
+    <EmbeddedResource Include="2sheet.csv" />
+  </ItemGroup>
+</Project>

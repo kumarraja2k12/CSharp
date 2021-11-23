@@ -1,0 +1,13 @@
+/Users/kumar/Projects/CSVManager/CSVManager/bin/Debug/netcoreapp3.1/CSVManager.deps.json
+/Users/kumar/Projects/CSVManager/CSVManager/bin/Debug/netcoreapp3.1/CSVManager.runtimeconfig.json
+/Users/kumar/Projects/CSVManager/CSVManager/bin/Debug/netcoreapp3.1/CSVManager.runtimeconfig.dev.json
+/Users/kumar/Projects/CSVManager/CSVManager/bin/Debug/netcoreapp3.1/CSVManager.dll
+/Users/kumar/Projects/CSVManager/CSVManager/bin/Debug/netcoreapp3.1/CSVManager.pdb
+/Users/kumar/Projects/CSVManager/CSVManager/obj/Debug/netcoreapp3.1/CSVManager.csproj.AssemblyReference.cache
+/Users/kumar/Projects/CSVManager/CSVManager/obj/Debug/netcoreapp3.1/CSVManager.AssemblyInfoInputs.cache
+/Users/kumar/Projects/CSVManager/CSVManager/obj/Debug/netcoreapp3.1/CSVManager.AssemblyInfo.cs
+/Users/kumar/Projects/CSVManager/CSVManager/obj/Debug/netcoreapp3.1/CSVManager.csproj.CoreCompileInputs.cache
+/Users/kumar/Projects/CSVManager/CSVManager/obj/Debug/netcoreapp3.1/CSVManager.dll
+/Users/kumar/Projects/CSVManager/CSVManager/obj/Debug/netcoreapp3.1/CSVManager.pdb
+/Users/kumar/Projects/CSVManager/CSVManager/obj/Debug/netcoreapp3.1/CSVManager.genruntimeconfig.cache
+/Users/kumar/Projects/CSVManager/CSVManager/obj/Debug/netcoreapp3.1/CSVManager.GeneratedMSBuildEditorConfig.editorconfig
